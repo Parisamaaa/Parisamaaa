@@ -34,11 +34,6 @@ I'm a computer science student with a 4.0 GPA, specializing in **C++**, **JavaSc
 
 ---
 
-### 🏆 Achievements
-
-Professional archer, 4-time **California State Champion** and **National Team Leader** with six World Cup medals.
-
----
 
 ### 📫 Let's Connect
 
