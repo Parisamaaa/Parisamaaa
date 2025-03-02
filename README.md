@@ -25,12 +25,6 @@ I'm a computer science student with a 4.0 GPA, specializing in **C++**, **JavaSc
 - **Web Development**: HTML, CSS, Bootstrap, React, Vue.js, jQuery
 - **Tools**: Git, Agile methodologies
 
----
-
-### 🚀 Featured Projects
-
-- **[Portfolio Website](link)**: A showcase of my projects and accomplishments.
-- **[Calculator App](link)**: A responsive, interactive calculator built with HTML, CSS, and jQuery.
 
 ---
 
